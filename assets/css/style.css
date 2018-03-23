@@ -72,7 +72,12 @@ section {
 .section_testimonial {
   margin-bottom: 0;
 }
-
+.linkk .fa-envelope {
+  color: rgb(116, 9, 9);
+}
+.legal {
+  font-weight: bold;
+}
 h1 {
   font-size: 36px;
 }
